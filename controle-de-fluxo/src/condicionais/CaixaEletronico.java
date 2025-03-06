@@ -1,3 +1,5 @@
+package condicionais;
+
 public class CaixaEletronico {
 
     /**
